@@ -1,0 +1,27 @@
+body {
+    color: rgba(255, 255, 255, .7);
+}
+
+h1.header-title {
+    transform: rotate(-5deg);
+    font-family: 'Bitter', serif;
+}
+
+section#project-list {
+    background-image: url(../images/header2.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.title-padding {
+    margin: 5em 0px;
+}
+
+.title-padding h2 {
+    margin-bottom: 20px;
+}
+
+.icon {
+    font-size: 4em;
+    margin-bottom: 1rem;
+}
